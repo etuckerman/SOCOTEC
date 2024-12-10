@@ -1,0 +1,137 @@
+Prompt,Function Call
+What's the square of 6?,square(6)
+Calculate the square of 7,square(7)
+Find the squared value of 5,square(5)
+What do you get when you square 4?,square(4)
+Compute the square of 3,square(3)
+Can you square 8 for me?,square(8)
+What is the result of 9 squared?,square(9)
+Square 2,square(2)
+Tell me the square of 10,square(10)
+What number is 11 when squared?,square(11)
+Give me the squared result of 12,square(12)
+Determine the square of 13,square(13)
+How much is 14 squared?,square(14)
+Square root of 16 squared,square(4)
+I want the square of 15,square(15)
+Squared value of 7,square(7)
+What does 6 look like when you square it?,square(6)
+Double squared of 3,square(2)
+The square value for 9,square(9)
+Square 17,square(17)
+What is 18 squared?,square(18)
+Calculate the square of 19,square(19)
+Find the squared result of 20,square(20)
+Squared value of 21,square(21)
+Compute 22 squared,square(22)
+What happens when you square 23?,square(23)
+The square of 24,square(24)
+Square 25 for me,square(25)
+Determine 26 squared,square(26)
+Give me the squared value of 27,square(27)
+How much is 28 squared?,square(28)
+Square the number 29,square(29)
+What is the result when 30 is squared?,square(30)
+Hello Alice!,"greet(""Alice"")"
+Say hello to Charlie,"greet(""Charlie"")"
+Greet Bob,"greet(""Bob"")"
+Could you greet Emma?,"greet(""Emma"")"
+I'd like you to greet Michael,"greet(""Michael"")"
+Introduce yourself to Sarah,"greet(""Sarah"")"
+Please welcome David,"greet(""David"")"
+Hi there to Jessica,"greet(""Jessica"")"
+Give a warm greeting to Emily,"greet(""Emily"")"
+Salutations to Robert,"greet(""Robert"")"
+A friendly hello to Mark,"greet(""Mark"")"
+Extend a greeting to Lisa,"greet(""Lisa"")"
+Say hi to Jennifer,"greet(""Jennifer"")"
+Wish a hello to Thomas,"greet(""Thomas"")"
+Greet Katherine,"greet(""Katherine"")"
+A big welcome to Daniel,"greet(""Daniel"")"
+Hello to Maria,"greet(""Maria"")"
+Greetings to Christopher,"greet(""Christopher"")"
+Welcome Andrew,"greet(""Andrew"")"
+Say hello to Elizabeth,"greet(""Elizabeth"")"
+Greet Oliver,"greet(""Oliver"")"
+Hi James!,"greet(""James"")"
+Welcome aboard Rachel,"greet(""Rachel"")"
+Introduce Sophie,"greet(""Sophie"")"
+Wish a warm welcome to Jack,"greet(""Jack"")"
+Say hello to Hannah,"greet(""Hannah"")"
+Greet Lucas,"greet(""Lucas"")"
+A big hello to Olivia,"greet(""Olivia"")"
+Welcome Matthew,"greet(""Matthew"")"
+Hi there Emma,"greet(""Emma"")"
+Greet Isabella,"greet(""Isabella"")"
+Say hi to Ethan,"greet(""Ethan"")"
+Welcome Clara,"greet(""Clara"")"
+Hello William,"greet(""William"")"
+Greet Sophia,"greet(""Sophia"")"
+What is 3 plus 9?,"add(3, 9)"
+Can you add 4 to 5?,"add(4, 5)"
+Calculate the sum of 6 and 7,"add(6, 7)"
+Give me the result of adding 2 and 8,"add(2, 8)"
+What do you get when you add 5 and 3?,"add(5, 3)"
+Compute the total of 1 and 9,"add(1, 9)"
+Find the sum of 7 and 4,"add(7, 4)"
+Add these numbers together: 6 and 5,"add(6, 5)"
+How much is 10 plus 5?,"add(10, 5)"
+What's the result of adding 12 and 3?,"add(12, 3)"
+Sum up 7 and 11,"add(7, 11)"
+Calculate 9 plus 6,"add(9, 6)"
+Add 13 and 4 together,"add(13, 4)"
+Find the total of 8 and 5,"add(8, 5)"
+Combine 15 and 7,"add(15, 7)"
+What happens when you add 16 and 9?,"add(16, 9)"
+Total of 11 and 14,"add(11, 14)"
+Sum of 12 and 13,"add(12, 13)"
+Add 17 and 6,"add(17, 6)"
+Putting 19 and 8 together,"add(19, 8)"
+Aggregate 20 and 5,"add(20, 5)"
+What do you get adding 22 and 7?,"add(22, 7)"
+Combine the numbers 25 and 3,"add(25, 3)"
+Total up 28 and 9,"add(28, 9)"
+Add 31 and 14,"add(31, 14)"
+What's the sum of 35 and 17?,"add(35, 17)"
+Compute 40 plus 23,"add(40, 23)"
+Find the total of 45 and 28,"add(45, 28)"
+Add 50 and 32,"add(50, 32)"
+Combine 55 and 37,"add(55, 37)"
+Cube the number 4,cube(4)
+What's 5 cubed?,cube(5)
+Calculate the cube of 3,cube(3)
+Find the cubed value of 6,cube(6)
+Compute 7 to the power of 3,cube(7)
+What do you get when you cube 2?,cube(2)
+Can you cube 8 for me?,cube(8)
+Cube 9,cube(9)
+What is 10 cubed?,cube(10)
+Determine the cube of 11,cube(11)
+The cube of 12,cube(12)
+Cube the value 13,cube(13)
+How much is 14 cubed?,cube(14)
+I want the cube of 15,cube(15)
+What does cubing 6 look like?,cube(6)
+Cube root of 27 cubed,cube(3)
+The cubed value for 7,cube(7)
+Triple squared of 4,cube(4)
+Cube the number that squares to 9,cube(3)
+Cube 16,cube(16)
+What is 17 cubed?,cube(17)
+Calculate the cube of 18,cube(18)
+Find the cubed value of 19,cube(19)
+Compute 20 to the power of 3,cube(20)
+What happens when you cube 21?,cube(21)
+The cube of 22,cube(22)
+Cube the value 23,cube(23)
+How much is 24 cubed?,cube(24)
+I want the cube of 25,cube(25)
+Cube the result of adding 2 and 1,cube(3)
+What is the cube of the number that makes 10 when added to 5?,cube(5)
+Cube the number you get when you square 3,cube(3)
+Find the cube of the result when 4 is squared,cube(4)
+Compute the cube of what squares to 16,cube(4)
+What do you get if you cube the square root of 64?,cube(4)
+Cube the square of 2,cube(8)
+The cube of the number that when squared is 25,cube(5)
+Cubed squared value of 3,cube(9)
