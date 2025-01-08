@@ -1,0 +1,37 @@
+Using "Qwen/Qwen2.5-7B" and "all-MiniLM-L6-v2":
+
+What are the minimum requirements for egress width in a building?
+
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+Context:
+shall be located in accordance with the requirements of Table 602 based on the fire-resistance rating of the exterior walls for the proposed type of construction. 3103.4 Means of egress. Temporary structures shall conform to the means of egress requirements of Chapter 10 and shall have an exit access travel distance of 100 feet (30 480 mm) or less.
+
+Context:
+[Continued on next page]
+
+MEANS OF EGRESS
+
+1005.6 Egress convergence.
+
+Where the means of egress from stories above and below converge at an intermediate level, the capacity of the means of egress from the point of convergence shall be not less than the largest minimum width or the sum of the required capacities for the stairways or ramps serving the two adjacent stories, whichever is larger.
+
+1005.7 Encroachment.
+
+Encroachments into the required means of egress width shall be in accordance with the provisions of this section.
+
+1005.7.1 Doors.
+
+Doors, when fully opened, shall not reduce the required width by more than 7 inches (178 mm). Doors in any position shall not reduce the required width by more than one-half.
+
+Exceptions: 1. Surface-mounted latch release hardware shall be exempt from inclusion in the 7-inch maximum (178 mm) encroachment where both of the following conditions exist: 1.1. The hardware is mounted to the side of the door facing away from the adjacent wall where the door is in the open position. 1.2. The hardware is mounted not less than 34 inches (865 mm) nor more than 48 inches (1219 mm) above the finished floor. 2. The restrictions on door swing shall not apply to doors within individual dwelling units and sleeping units of Group R-2 occupancies and dwelling units of Group R-3 occupancies.
+
+1005.7.2 Other projections.
+
+Question: What are the minimum requirements for egress width in a building?
+Helpful Answer: The minimum requirements for egress width in a building are not explicitly stated in the provided context. However, it is mentioned that the capacity of the means of egress from the point of convergence shall be not less than the largest minimum width or the sum of the required capacities for the stairways or ramps serving the two adjacent stories, whichever is larger. Additionally, encroachments into the required means of egress width shall be in accordance with the provisions of the section.
+
+
+
+^^^^^^^^^
+pretty bad rag, pulled relevent info but not detailed enough to answer the user
