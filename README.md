@@ -1,3 +1,8 @@
+# FUNCTION CALLING LLM
+
+1. No setup needed, run all codeblocks.
+
+
 # SOCOTEC RAG System
 
 ## Setup Instructions
